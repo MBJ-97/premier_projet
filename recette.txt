@@ -12,6 +12,6 @@ descriptif' "
 
 REMARQUE IMPORTANTE : Chaque changement necessite les commandes
 suivantes :
-=> git add
-=> git commit
-=> git push
+=> git add .
+=> git commit -m "votre descirption"
+=> git push -u origin main
