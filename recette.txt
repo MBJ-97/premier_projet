@@ -9,4 +9,4 @@ init" puis cliquer sur entree.
 6- Ajouter les changements effectues => "git add ."
 7- Nommer les changement qu'on a ajoute => "git commit -m 'votre message
 descriptif' "
-8- Push les changements sur github.
+8- Push les changements sur github => 'git push -u origin main'
