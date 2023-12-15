@@ -4,3 +4,9 @@ voici la recette de Tikourbabine ! Par ce que on est vendredi.
 nouveau. Le terminal s'affichera en dessous.)
 3- Initier Git sur notre repo (Repository = Dossier) en ecrivant "git
 init" puis cliquer sur entree.
+4- Creer un repo publique sur Github.
+5- Suivre les 3 etapes donnees (sauf la derniere!!)
+6- Ajouter les changements effectues => "git add ."
+7- Nommer les changement qu'on a ajoute => "git commit -m 'votre message
+descriptif' "
+8- Push les changements sur github.
