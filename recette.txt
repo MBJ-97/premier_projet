@@ -1,0 +1,6 @@
+voici la recette de Tikourbabine ! Par ce que on est vendredi.
+1- Creer le dossier en local et l'ouvrir avec VScode.
+2- ouvrir un terminal sur VScode. (En haut cliquer sur terminal ensuite
+nouveau. Le terminal s'affichera en dessous.)
+3- Initier Git sur notre repo (Repository = Dossier) en ecrivant "git
+init" puis cliquer sur entree.
